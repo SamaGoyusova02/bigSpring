@@ -26,14 +26,14 @@ import 'swiper/css/pagination';
     {/*Part 1*/}
 
     <div className='flex justify-center items-center flex-col gap-4 mt-12 pt-20'>
-        <h2 className='lg:text-[3em] md:text-[2.5em] text-[2.3em] font-[500] lg:w-[50%] text-center'>Let us solve your critical website development challenges</h2>
+        <h2 className='lg:text-[3em] md:text-[2.5em] text-[2.3em] font-[500] lg:w-[50%] text-center px-2'>Let us solve your critical website development challenges</h2>
         <p className='text-center lg:w-[47%] text-[#777777] px-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus.</p>
         <img className='lg:w-[50%] mt-8' src={banner} alt="" />
     </div>
 
     {/*Part 2*/}
     <div className='bg-[#edf6f5] py-15 mt-12'>
-        <h2 className='text-[#222222] text-center text-[2.3em] font-[500]'>Something You Need To Know</h2>
+        <h2 className='text-[#222222] text-center text-[2.3em] font-[500] px-2'>Something You Need To Know</h2>
         <div className='flex flex-col lg:flex-row flex-wrap px-3 lg:px-10 mt-10 justify-center items-center gap-5'>
             <div className='bg-white w-full max-w-[360px] py-7 rounded-[10px] flex flex-col gap-4 items-center'>
                 <img className='w-[30px]' src={icon1} alt="" />
